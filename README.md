@@ -2,7 +2,7 @@
 
 Naziv: Aplikacija za pracenje treninga (Train.me)
 Opis: U aplikaciju dodajemo svoje treninge kako bi na duge staze pratili progresiju na određenim nama zanimljivim liftovima.
-Članovi time: Milorad Ivanović
+Članovi tima: Milorad Ivanović
 
 ## Project setup
 ```
