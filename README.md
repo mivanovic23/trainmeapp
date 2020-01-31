@@ -1,5 +1,9 @@
 # trenirko
 
+Naziv: Aplikacija za pracenje treninga (Train.me)
+Opis: U aplikaciju dodajemo svoje treninge kako bi na duge staze pratili progresiju na određenim nama zanimljivim liftovima.
+Članovi time: Milorad Ivanović
+
 ## Project setup
 ```
 yarn install
